@@ -1,0 +1,12 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
+}
+h3{
+    color: rgb(9, 9, 128);
+}
+h2{
+    color: rgb(15, 15, 218);
+}
+span{
+    background-color: blue;
+}
